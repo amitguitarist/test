@@ -2,3 +2,4 @@ THIS IS TEST
 
 Test 1
 Test fro min brnch
+Test fro hotflix brnch which is next  to mster
